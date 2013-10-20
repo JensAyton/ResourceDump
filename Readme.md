@@ -5,12 +5,13 @@ Usage:
 resourcedump [-o outputDirectory] resourceFile [...]
 ```
 
-Extracted resources are organized by fork, type, and ID, like so:
-* MyFile Resources/
-  * Resource Fork/
-    * 'CODE'/
-      * 0
-
+Extracted resources are organized by fork, type, and ID, like so
+```
+MyFile Resources/
+  Resource Fork/
+    'CODE'/
+      0
+```
 ---
 Copyright © 2013 Jens Ayton
 
