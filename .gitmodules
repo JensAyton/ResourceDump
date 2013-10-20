@@ -1,0 +1,3 @@
+[submodule "JATemplate"]
+	path = JATemplate
+	url = https://github.com/JensAyton/JATemplate.git
